@@ -9,7 +9,7 @@
 }
 
 .main{
-  background-image: url("../pages/Images/circle-blues.png");
+  background-image: url("Images/circle-blues.png");
   background-size: cover;
   border:0;
   margin:0;
@@ -21,7 +21,7 @@
 }
 .container-fluid{
   text-align: center;
-  background-image: url("..//pages/Images/eerie1.jpg");
+  background-image: url("Images/eerie1.jpg");
   background-size: cover;
   width:100%;
  
@@ -201,7 +201,7 @@
 /* quotes css*/
 
 .main-quotes{
-  background-image: url("../pages/Images/252349-new-black-textured-background-2048x1152-for-ios.jpg");
+  background-image: url("Images/252349-new-black-textured-background-2048x1152-for-ios.jpg");
   
   
   margin:3rem 3rem 3rem 3rem;
